@@ -1,0 +1,1 @@
+.nuget\NuGet.exe pack Angular.UI.Utils.nuspec
