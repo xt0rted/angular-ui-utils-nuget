@@ -3,7 +3,7 @@
     <metadata>
         <id>Angular.UI.Utils</id>
         <title>AngularJS UI Utils</title>
-        <version>0.2.1</version>
+        <version>0.2.2</version>
         <authors>AngularUI Team</authors>
         <owners>xt0rted</owners>
         <licenseUrl>https://github.com/angular-ui/ui-utils/blob/master/LICENSE</licenseUrl>
@@ -11,7 +11,7 @@
         <iconUrl>https://secure.gravatar.com/avatar/46d07086561c66caae16ce4d96bfd345?s=140&amp;d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-org-420.png</iconUrl>
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
         <description>Swiss-Army-Knife of AngularJS tools (with no external dependencies!)</description>
-        <releaseNotes>https://github.com/angular-ui/ui-utils/blob/master/CHANGELOG.md#v020-2014-12-31</releaseNotes>
+        <releaseNotes>https://github.com/angular-ui/ui-utils/blob/master/CHANGELOG.md#v022-2015-02-18</releaseNotes>
         <copyright>https://github.com/angular-ui/ui-utils/blob/master/LICENSE</copyright>
         <tags>angular angularjs angular-ui</tags>
     </metadata>
